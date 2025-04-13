@@ -1,0 +1,32 @@
+{
+  "name": "guayaba",
+  "version": "1.0.0",
+  "description": "A minimalist Express.js-style library for creating HTTP servers in JavaScript.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "framework",
+    "server",
+    "guayaba",
+    "middleware",
+    "http"
+  ],
+  "author": "NopAngel",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NopAngel/guayaba.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NopAngel/guayaba/issues"
+  },
+  "homepage": "https://github.com/NopAngel/guayaba"
+}

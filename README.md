@@ -7,7 +7,7 @@ Welcome to **Guayaba**! A minimalist and easy-to-use library inspired by Express
 ## 🚀 Characteristics
 
 - **Easy Setup**: Create servers in a few steps.
-- **Route Support**: Define HTTP routes with GET, POST, and more methods.
+- **Route Support**: Define HTTP routes with **GET**, **POST**, and more methods.
 - **Middleware**: Add custom logic to handle requests.
 - **Redirection**: Send users to other pages.
 - **Custom 404 Page**: Configure a handler for routes not found.
@@ -54,7 +54,7 @@ set404Handler((req, res) => {
 
 ### How to Install
 
-1. To install you first need to create your project "Workscape" folder:
+1. To install you first need to create your project **"Workscape"** folder:
 
 ```pwsh
 mkdir [name_for_the_project]
